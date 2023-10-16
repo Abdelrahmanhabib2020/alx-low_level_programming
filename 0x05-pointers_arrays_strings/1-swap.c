@@ -2,7 +2,7 @@
 
 /**
  * swap_int - swaps the values of two integers
- * 		using tow input prameter
+ * using tow input prameter
  * @a: input prameter 1
  * @b: input prameter 2
  * Return: Nothing
