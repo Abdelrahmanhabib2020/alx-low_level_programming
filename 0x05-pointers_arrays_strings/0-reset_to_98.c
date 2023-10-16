@@ -5,6 +5,7 @@
  *    		 and updates the value it points to 98
  *
  * @n: int prameter
+ *
  * Return: Nothing
  */
 void reset_to_98(int *n)
