@@ -3,8 +3,8 @@
 #include <time.h>
 
 /**
- * main - programing that generate random validation
- * passwords for the program 101-crackmes
+ * main - program that generate random validat
+ * password for the program 101-crackme
  *
  * Return: Always 0 (Success)
  */
