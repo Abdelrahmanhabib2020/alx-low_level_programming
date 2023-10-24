@@ -1,9 +1,9 @@
 #include "main.h"
 /**
-  * _memset - fill memory with a constant byte,
+ * _memset - fills memory with a constant byte,
  * @s: memory area.
- * @b: constant bytes.
- * @n: byte filled.
+ * @b: constant byte.
+ * @n: bytes filled.
  * Return: the pointer to dest.
  */
 char *_memset(char *s, char b, unsigned int n)
